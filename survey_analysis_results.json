@@ -1,0 +1,92 @@
+{
+    "total_responses": 9,
+    "valid_ratings": 8,
+    "missing_ratings": 1,
+    "invalid_ratings": 0,
+    "usable_feedback": 9,
+    "average_rating": 3.25,
+    "five_star_ratings": 2,
+    "low_ratings": 3,
+    "rating_distribution": {
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 2
+    },
+    "csat_percentage": 50.0,
+    "positive_feedback_count": 4,
+    "negative_feedback_count": 4,
+    "positive_feedback_percentage": 44.44,
+    "negative_feedback_percentage": 44.44,
+    "negative_keyword_frequency": {
+        "poor": 1,
+        "rude": 1,
+        "late": 1,
+        "bad": 0,
+        "slow": 0,
+        "long": 1,
+        "angry": 0,
+        "unhappy": 0,
+        "terrible": 0,
+        "worst": 0,
+        "not respond": 1
+    },
+    "complaint_categories": {
+        "Staff behaviour": 1,
+        "Delays and waiting": 2,
+        "Customer support": 1,
+        "Poor experience": 1
+    },
+    "positive_feedback_aspects": {
+        "Positive staff feedback": 1,
+        "Positive product feedback": 1
+    },
+    "sentiment_counts": {
+        "Positive": 3,
+        "Negative": 3,
+        "Mixed": 1,
+        "Neutral": 2
+    },
+    "sentiment_results": [
+        {
+            "feedback": "The staff were friendly and helpful",
+            "sentiment": "Positive"
+        },
+        {
+            "feedback": "My order arrived late",
+            "sentiment": "Negative"
+        },
+        {
+            "feedback": "Good service but the waiting time was long",
+            "sentiment": "Mixed"
+        },
+        {
+            "feedback": "Very poor experience and rude staff",
+            "sentiment": "Negative"
+        },
+        {
+            "feedback": "Excellent service, I am very happy",
+            "sentiment": "Positive"
+        },
+        {
+            "feedback": "Average experience, nothing special",
+            "sentiment": "Neutral"
+        },
+        {
+            "feedback": "The product was good",
+            "sentiment": "Positive"
+        },
+        {
+            "feedback": "Customer support did not respond",
+            "sentiment": "Negative"
+        },
+        {
+            "feedback": "The delivery was okay",
+            "sentiment": "Neutral"
+        }
+    ],
+    "top_complaint_categories": [
+        "Delays and waiting"
+    ]
+}
